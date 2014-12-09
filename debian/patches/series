@@ -20,15 +20,14 @@ upstream/0018-acc-fixed-computation-of-extra-accounting-fields.patch
 upstream/0019-auth_db-added-sections-ids-for-functions.patch
 upstream/0020-evapi-Add-link-to-external-library.patch
 upstream/0021-pv-Update-error-in-docs.patch
+# dialplan MT#6981
+upstream/0001-dialplan-option-to-allow-variables-in-match-and-subs.patch
+upstream/0002-dialplan-documentation-for-match_dynamic-parameter.patch
 #
 no_lib64_on_64_bits.patch
 no_INSTALL_file.patch
 fix_export.patch
 sipwise/do-not-install-default-config.patch
-# dialplan MT#6981
-#sipwise/0001-core-new-pv_check_format-function.patch
-#sipwise/dialplan_pv_rules.patch
-#sipwise/dialplan-use-AVP-values-at-match-expresion-one-by-on.patch
 sipwise/add_pcem_module.patch
 sipwise/lcr_rate_module.patch
 sipwise/nathelper.contact_only.patch
